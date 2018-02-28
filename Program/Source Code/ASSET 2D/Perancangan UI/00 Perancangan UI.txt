@@ -1,0 +1,2 @@
+Tombol Kotak : berwarna kuning gradient hitam. bergaris hitam
+Tombol Bulat : berwarna Putih dengan garis pinggir merah dan informasi kegunaan tombol berwarna hitam. Bayangan hitam dibelakang tombol bulat
